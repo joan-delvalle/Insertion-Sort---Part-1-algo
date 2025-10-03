@@ -1,1 +1,1 @@
-# Insertion-Sort---Part-1-algo
+# Insertion-Sort---Part-1-algo We take the last element (key) and shift all bigger elements one step to the right until we find the correct position for the key. After each shift and final insertion, we print the array to show the steps.
